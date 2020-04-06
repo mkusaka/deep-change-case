@@ -13,4 +13,4 @@ function changeCase(converter) {
   };
   return convertKeys;
 }
-module.exports = changeCase;
+export default changeCase;
