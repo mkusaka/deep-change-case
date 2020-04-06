@@ -2,7 +2,7 @@
   "name": "@miyucy/deep-change-case",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
   "module": "index.mjs",
   "scripts": {
     "test": "node test.js && node --experimental-modules test.mjs || exit 1"
